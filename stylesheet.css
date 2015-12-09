@@ -1,0 +1,28 @@
+html{
+	background-color:#04498C;
+}
+
+#viewport{
+	position:absolute;
+	height:100%;
+	width:100%;
+	max-width:75vh;
+	background-color:white;
+	margin-top:0;
+	left:0;
+	right:0;
+	margin-left: auto;
+	margin-right: auto;
+	z-index:1;
+}
+
+#navbar {
+	margin-bottom:0;
+}
+
+.viewport_page {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index:2;
+}
